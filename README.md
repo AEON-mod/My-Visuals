@@ -76,9 +76,7 @@
 | 🏙️ **`urban_landscapes`** | *Stunning cityscapes, neon streets, and urban landscapes.* |
 
 </div>
-
 <br/>
-
 <br/>
 <p align="center">━━━━━━━ ❖ ━━━━━━━</p>
 <br>
