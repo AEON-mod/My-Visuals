@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="banner" src="Assets/banner.jpg" />
+  <img width="100%" alt="banner" src="Assets/banner.gif" />
   
   #  My-Visuals 
   *🌌 A curated collection of aesthetic, high-quality wallpapers and visuals across multiple themes.*
@@ -9,7 +9,6 @@
   [![Vibe](https://img.shields.io/badge/Vibe-Immaculate-000000?style=flat-square)](#)
 </div>
 <br/>
-
 <p align="center">━━━━━━━ ❖ ━━━━━━━</p>
 
 <a id="gallery"></a>
@@ -54,7 +53,6 @@
 </div>
 
 <br>
-
 <p align="center">━━━━━━━ ❖ ━━━━━━━</p>
 <br/>
 
@@ -82,7 +80,6 @@
 <br/>
 
 <br/>
-
 <p align="center">━━━━━━━ ❖ ━━━━━━━</p>
 <br>
 
