@@ -22,8 +22,8 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" width="50%" style="padding: 15px; border: none;">
-<b>🌸 Anime Girl</b><br><br>
-<img src="./Assets/showcase_anime_girl.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<b>🌸 Anime</b><br><br>
+<img src="./Assets/showcase_anime.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </td>
 <td align="center" width="50%" style="padding: 15px; border: none;">
 <b>🏙️ Architecture & Urban</b><br><br>
@@ -32,8 +32,8 @@
 </tr>
 <tr>
 <td align="center" width="50%" style="padding: 15px; border: none;">
-<b>☕ Cozy Warm</b><br><br>
-<img src="./Assets/showcase_cozy_warm.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<b>☕ Cozy Cold</b><br><br>
+<img src="./Assets/showcase_cozy_cold.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </td>
 <td align="center" width="50%" style="padding: 15px; border: none;">
 <b>🖤 Dark Amoled</b><br><br>
@@ -70,9 +70,9 @@
 
 | Theme | Vibe / Description |
 | :--- | :--- |
-| 🌸 **`anime_girl`** | *Beautiful anime & manga-style character arts.* |
+| 🌸 **`anime`** | *Beautiful anime & manga-style character arts.* |
 | 🏙️ **`architecture_urban`** | *Stunning cityscapes, neon streets, and urban landscapes.* |
-| ☕ **`cozy_warm`** | *Comforting, chill, and warm-toned aesthetics.* |
+| ☕ **`cozy_cold`** | *Comforting, chill, and cold-toned aesthetics.* |
 | 🖤 **`dark_amoled`** | *Deep blacks and high contrast—perfect for OLED screens.* |
 | ⚡ **`high_energy`** | *Vibrant, intense, and action-packed visuals.* |
 | 🚀 **`space_vehicles`** | *Sci-fi spacecraft, planets, and cosmic exploration.* |
