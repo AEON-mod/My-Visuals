@@ -22,8 +22,8 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" width="50%" style="padding: 15px; border: none;">
-<b>🌸 Anime</b><br><br>
-<img src="./Assets/showcase_anime.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<b>🌸 Moe Waifu</b><br><br>
+<img src="./Assets/showcase_moe_waifu.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </td>
 <td align="center" width="50%" style="padding: 15px; border: none;">
 <b>🏙️ Architecture & Urban</b><br><br>
@@ -70,7 +70,7 @@
 
 | Theme | Vibe / Description |
 | :--- | :--- |
-| 🌸 **`anime`** | *Beautiful anime & manga-style character arts.* |
+| 🌸 **`moe_waifu`** | *Beautiful anime & manga-style character arts.* |
 | 🏙️ **`architecture_urban`** | *Stunning cityscapes, neon streets, and urban landscapes.* |
 | ☕ **`cozy_cold`** | *Comforting, chill, and cold-toned aesthetics.* |
 | 🖤 **`dark_amoled`** | *Deep blacks and high contrast—perfect for OLED screens.* |
