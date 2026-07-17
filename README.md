@@ -22,16 +22,6 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" width="50%" style="padding: 15px; border: none;">
-<b>🌸 Moe Waifu</b><br><br>
-<img src="./Assets/showcase_moe_waifu.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
-</td>
-<td align="center" width="50%" style="padding: 15px; border: none;">
-<b>🏙️ Urban Landscapes</b><br><br>
-<img src="./Assets/showcase_urban_landscapes.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" style="padding: 15px; border: none;">
 <b>☕ Cozy Cold</b><br><br>
 <img src="./Assets/showcase_cozy_cold.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </td>
@@ -46,8 +36,18 @@
 <img src="./Assets/showcase_high_energy.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </td>
 <td align="center" width="50%" style="padding: 15px; border: none;">
+<b>🌸 Moe Waifu</b><br><br>
+<img src="./Assets/showcase_moe_waifu.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" style="padding: 15px; border: none;">
 <b>🚀 Space Vehicles</b><br><br>
 <img src="./Assets/showcase_space_vehicles.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+</td>
+<td align="center" width="50%" style="padding: 15px; border: none;">
+<b>🏙️ Urban Landscapes</b><br><br>
+<img src="./Assets/showcase_urban_landscapes.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </td>
 </tr>
 </table>
@@ -70,12 +70,12 @@
 
 | Theme | Vibe / Description |
 | :--- | :--- |
-| 🌸 **`moe_waifu`** | *Beautiful anime & manga-style character arts.* |
-| 🏙️ **`urban_landscapes`** | *Stunning cityscapes, neon streets, and urban landscapes.* |
 | ☕ **`cozy_cold`** | *Comforting, chill, and cold-toned aesthetics.* |
 | 🖤 **`dark_amoled`** | *Deep blacks and high contrast—perfect for OLED screens.* |
 | ⚡ **`high_energy`** | *Vibrant, intense, and action-packed visuals.* |
+| 🌸 **`moe_waifu`** | *Beautiful anime & manga-style character arts.* |
 | 🚀 **`space_vehicles`** | *Sci-fi spacecraft, planets, and cosmic exploration.* |
+| 🏙️ **`urban_landscapes`** | *Stunning cityscapes, neon streets, and urban landscapes.* |
 
 </div>
 
